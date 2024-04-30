@@ -1,6 +1,7 @@
 - Hi, I’m @Dev-Payton
--  I’m currently in web development and cybersecurity.
--  I’m currently learning how to cultivate my skills further, and continuing to grow.
+-  I’m currently a CS student at the UMN.
+-  I’m actively learning how to cultivate my skills further, and continuing to grow.
+-  Now working on backend development with SpringBoot and game development inside the world of godot.
 - How to reach me
  @paytonsedu@gmail.com
 
