@@ -1,11 +1,15 @@
-- Hi, I’m @Dev-Payton
--  I’m currently a CS student at the UMN.
--  I’m actively learning how to cultivate my skills further, and continuing to grow.
--  Now working on backend development with SpringBoot and game development inside the world of Godot.
-- How to reach me
- @paytonsedu@gmail.com
+Hello, I'm Payton!
 
-<!---
-Dev-Payton/Dev-Payton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    I'm a Computer Science student at the University of Minnesota.
+    I'm dedicated to continuously improving my skills through hands-on learning.
+    Currently, I'm delving into backend development with Spring Boot and Flask.
+
+How to Reach Me:
+
+    Email: paytonsedu@gmail.com
+    LinkedIn: linkedin.com/in/paytonsedu
+
+Quick Links:
+
+    Explore my projects below.
+    Don't hesitate to reach out if you have any questions or just want to chat!
